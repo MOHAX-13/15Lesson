@@ -1,0 +1,11 @@
+{
+  "name": "group-work-15",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "browser-sync start -s -w"
+  },
+  "author": "Maksim Yakusik",
+  "devDependencies": {
+    "browser-sync": "^2.24.4"
+  }
+}
